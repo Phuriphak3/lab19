@@ -113,6 +113,8 @@ int Unit:: heal (){
 		}
 	}
 	
+	
+	return 0;
 }
 
 
